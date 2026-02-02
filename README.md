@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Taggar</h1>
 <h3 align="center">A pre final year student from Thapar University and interested in Game Engine Development</h3>
 
-- 🔭 I’m currently working on [Athelia](https://github.com/Parth-11/Athelia-App)
+- 🔭 I’m currently working on [Annora](https://github.com/Parth-11/Athelia-App)
 
 - 🌱 I’m currently learning **PyTorch,GoLang,Deep Learning**
 
